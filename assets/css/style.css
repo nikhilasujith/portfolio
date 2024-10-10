@@ -141,7 +141,7 @@ body{
 }
 .banner-con::before {
     content: "";
-    background: url(../image/nikhi.png) no-repeat top left;
+    background: url(../image/nikhi.webp) no-repeat top left;
     position: absolute;
     top: 0;
     left: 0;
